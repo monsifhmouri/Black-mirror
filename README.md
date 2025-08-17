@@ -1,7 +1,7 @@
 # Black_mirror.exe – Black Hat Payload
 
-**Version:** 1.0  
-**Author:** MR MONSIF H4CK3R  
+**Version:** ............................................................................................................0 
+**Author:** MØNSTR-M1ND  
 **Target:** Windows x64  
 **Type:** Firmware & System Destruction Suite  
 
